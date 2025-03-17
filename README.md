@@ -7,3 +7,8 @@ git config --global user.name "(nome)"
 git config --global user.email "(email)"
 git commit -m "(Comentário)"
 git push
+
+Resumo: Os 3 passos para o resto da vida.
+git add (Caminho do arquivo)
+git commit -m "O que eu fiz?"
+git push
